@@ -51,9 +51,19 @@ div>#name {
     border: 3px solid hsl(264, 82%, 80%);
 }
 
-/* jonathan */
 
+
+/* jonathan */
 .container .jonathan{
     background-color: hsl(217, 19%, 35%);
-    
+    border-radius: 10px;
+    padding: 30px;
+}
+
+.container #name_jonathan, #p_jonathan{
+    color: hsl(0, 0%, 81%);
+}
+
+.container #d_jonathan{
+    color: white;
 }

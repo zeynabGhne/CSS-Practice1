@@ -67,3 +67,19 @@ div>#name {
 .container #d_jonathan{
     color: white;
 }
+
+
+/* jeanette */
+.container .jeanette{
+    background-color: white;
+    border-radius: 10px;
+    padding: 30px;
+}
+
+.container #name_jeanette, #p_jeanette{
+    color: hsl(224, 10%, 45%);
+}
+
+.container #d_jeanette{
+    color: hsl(217, 19%, 35%);
+}

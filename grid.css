@@ -29,3 +29,25 @@ div>img {
 div>#name {
     grid-column: 2/3;
 }
+
+
+/* daniel */
+
+.container .daniel {
+    color: white;
+    background-color: hsl(263, 55%, 52%);
+    background-image: url(bg-pattern-quotation.svg);
+    background-repeat: no-repeat;
+    background-position: right 50px top;
+    border-radius: 10px;
+    text-align: 10px;
+    padding: 30px;
+}
+
+.container .daniel #p_daniel{
+    color: hsl(264, 82%, 80%)
+}
+
+.daniel > div > img{
+    border: 3px solid hsl(264, 82%, 80%);
+}

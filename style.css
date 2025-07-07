@@ -11,6 +11,13 @@
     gap: 20px;
 }
 
+body{
+    margin: 120px;
+    padding: 120px;
+    overflow: hidden;
+}
+
+
 .container .daniel{
     grid-column: 1/3;
     grid-row: 1/2;

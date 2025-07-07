@@ -40,7 +40,6 @@ div>#name {
     background-repeat: no-repeat;
     background-position: right 50px top;
     border-radius: 10px;
-    text-align: 10px;
     padding: 30px;
 }
 
@@ -50,4 +49,11 @@ div>#name {
 
 .daniel > div > img{
     border: 3px solid hsl(264, 82%, 80%);
+}
+
+/* jonathan */
+
+.container .jonathan{
+    background-color: hsl(217, 19%, 35%);
+    
 }

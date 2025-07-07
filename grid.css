@@ -41,6 +41,7 @@ div>#name {
     background-position: right 50px top;
     border-radius: 10px;
     padding: 30px;
+    box-shadow: 20px 20px 100px gray;
 }
 
 .container .daniel #p_daniel{
@@ -58,6 +59,7 @@ div>#name {
     background-color: hsl(217, 19%, 35%);
     border-radius: 10px;
     padding: 30px;
+    box-shadow: 20px 20px 100px gray;
 }
 
 .container #name_jonathan, #p_jonathan{
@@ -74,6 +76,7 @@ div>#name {
     background-color: white;
     border-radius: 10px;
     padding: 30px;
+    box-shadow: 20px 20px 100px gray;
 }
 
 .container #name_jeanette, #p_jeanette{
@@ -92,6 +95,7 @@ div>#name {
     color: white;
     border-radius: 10px;
     padding: 30px;
+    box-shadow: 20px 20px 100px gray;
 }
 
 .patrick > div > img{
@@ -104,6 +108,7 @@ div>#name {
     background-color: white;
     border-radius: 10px;
     padding: 30px;
+    box-shadow: 20px 20px 100px gray;
 }
 
 .container #name_kira, #p_kira{

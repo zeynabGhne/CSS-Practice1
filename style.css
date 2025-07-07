@@ -1,0 +1,8 @@
+@font-face {
+    font-family: my font;
+    src: url(BarlowSemiCondensed-Medium.ttf);
+}
+.container{
+    font-size: 13px;
+    font-family: my font;
+}

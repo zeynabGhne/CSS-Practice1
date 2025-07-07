@@ -83,3 +83,17 @@ div>#name {
 .container #d_jeanette{
     color: hsl(217, 19%, 35%);
 }
+
+
+
+/* patrick */
+.container .patrick{
+    background-color: hsl(219, 29%, 14%);
+    color: white;
+    border-radius: 10px;
+    padding: 30px;
+}
+
+.patrick > div > img{
+    border: 3px solid hsl(263, 55%, 52%);
+}

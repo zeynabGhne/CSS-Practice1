@@ -48,5 +48,64 @@ body{
 }
 
 
+@media  screen and (max-width:1350px) {
+
+    
+    body{
+        height: auto;
+        display: block;
+        padding: 30px;
+        overflow:scroll;
+    }
+
+    .container{
+        grid-template-columns: 1fr;
+        grid-template-rows: 5fr;
+    }
+
+    .container .daniel,
+    .container .jonathan,
+    .container .jeanette,
+    .container .patrick,
+    .container .kira{
+        margin: 20px;
+        grid-row: auto;
+        grid-column: auto;
+    }
+
+    
+}
+
+
+@media screen and (max-width:375px) {
+
+    body{
+        height: auto;
+        display: block;
+        padding: 20px;
+        overflow:scroll;
+    }
+
+    .container{
+        grid-template-columns: 1fr;
+        grid-template-rows: 5fr;
+    }
+
+    .container .daniel,
+    .container .jonathan,
+    .container .jeanette,
+    .container .patrick,
+    .container .kira{
+        margin: 10px;
+        grid-row: auto;
+        grid-column: auto;
+    }
+
+   
+    
+}
+
+
+
 
 

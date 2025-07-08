@@ -12,8 +12,12 @@
 }
 
 body{
-    margin: 120px;
-    padding: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    padding-left: 180px;
+    padding-right: 180px;
     overflow: hidden;
 }
 
@@ -42,3 +46,7 @@ body{
     grid-column: 4/5;
     grid-row: 1/3;
 }
+
+
+
+
